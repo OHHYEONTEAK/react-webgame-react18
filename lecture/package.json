@@ -1,0 +1,21 @@
+{
+  "name": "lecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "author": "Oh",
+  "license": "MIT",
+  "dependencies": {
+    "D": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
